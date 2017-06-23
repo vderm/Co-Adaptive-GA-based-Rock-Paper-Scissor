@@ -9,6 +9,5 @@ Simply run the =project.py= file. The simulation arguments are in the script fil
 + New individual creation probability
 + Tournament selection ring size
 
-[Report](Report Co-Adaptive-GA-based-Rock-Paper-Scissor.pdf) on the project available in this repo.
-
+[Report](Co-Adaptive-GA-based-Rock-Paper-Scissor/Report Co-Adaptive-GA-based-Rock-Paper-Scissor.pdf) on the project available in this repo.
 Other competiting algorithms (not based on GA) can be found here: http://www.rpscontest.com.
